@@ -1,0 +1,25 @@
+{
+  "name": "anti-racism-work",
+  "version": "1.0.0",
+  "description": "Website for my anti-racism work",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkiricks/anti-racism-work.git"
+  },
+  "keywords": [
+    "anti-racism"
+  ],
+  "author": "nikki ricks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikkiricks/anti-racism-work/issues"
+  },
+  "homepage": "https://github.com/nikkiricks/anti-racism-work#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
