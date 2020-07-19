@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nikkiricks/anti-racism-work#readme",
   "dependencies": {
+    "express-validator": "^6.6.0",
     "graceful-fs": "^4.2.4",
     "materialize-css": "^1.0.0-rc.2",
     "mongodb": "^3.5.8"
